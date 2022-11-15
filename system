@@ -2583,6 +2583,7 @@
         "infoEfects": []
     },
     "J103600": {
+    "solarSystemID": 31002078,
         "Wh-Systems": "J103600E-C00258E-R00026",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2599,6 +2600,7 @@
         ]
     },
     "J103604": {
+    "solarSystemID": 31000961,
         "Wh-Systems": "J103604C-C00088C-R00010",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -2614,6 +2616,7 @@
         ]
     },
     "J103615": {
+    "solarSystemID": 31002261,
         "Wh-Systems": "J103615E-C00283E-R00028",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2624,6 +2627,7 @@
         "infoEfects": []
     },
     "J103619": {
+    "solarSystemID": 31000864,
         "Wh-Systems": "J103619B-C00070B-R00008",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2640,6 +2644,7 @@
         ]
     },
     "J103631": {
+    "solarSystemID": 31001719,
         "Wh-Systems": "J103631D-C00205D-R00021",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -2650,6 +2655,7 @@
         "infoEfects": []
     },
     "J103653": {
+    "solarSystemID": 31000965,
         "Wh-Systems": "J103653C-C00089C-R00010",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -2660,6 +2666,7 @@
         "infoEfects": []
     },
     "J103701": {
+    "solarSystemID": 31002481,
         "Wh-Systems": "J103701E-C00244E-R00025",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2670,6 +2677,7 @@
         "infoEfects": []
     },
     "J103704": {
+    "solarSystemID": 31001491,
         "Wh-Systems": "J103704D-C00170D-R00018",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -2687,6 +2695,7 @@
         ]
     },
     "J103716": {
+    "solarSystemID": 31000459,
         "Wh-Systems": "J103716B-C00031B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2697,6 +2706,7 @@
         "infoEfects": []
     },
     "J103724": {
+    "solarSystemID": 31001292,
         "Wh-Systems": "J103724C-C00140C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -2713,6 +2723,7 @@
         ]
     },
     "J103727": {
+    "solarSystemID": 31001920,
         "Wh-Systems": "J103727E-C00237E-R00024",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2723,6 +2734,7 @@
         "infoEfects": []
     },
     "J103731": {
+    "solarSystemID": 31001382,
         "Wh-Systems": "J103731D-C00154D-R00016",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -2733,6 +2745,7 @@
         "infoEfects": []
     },
     "J103800": {
+    "solarSystemID": 31002383,
         "Wh-Systems": "J103800F-C00299F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -2749,6 +2762,7 @@
         ]
     },
     "J103812": {
+    "solarSystemID": 31002294,
         "Wh-Systems": "J103812E-C00287E-R00029",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2759,6 +2773,7 @@
         "infoEfects": []
     },
     "J103839": {
+    "solarSystemID": 31000420,
         "Wh-Systems": "J103839B-C00027B-R00004",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2774,6 +2789,7 @@
         ]
     },
     "J103854": {
+    "solarSystemID": 31000661,
         "Wh-Systems": "J103854B-C00051B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2784,6 +2800,7 @@
         "infoEfects": []
     },
     "J103907": {
+    "solarSystemID": 31001842,
         "Wh-Systems": "J103907D-C00225D-R00022",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -2794,6 +2811,7 @@
         "infoEfects": []
     },
     "J103924": {
+      "solarSystemID": 31000707,
         "Wh-Systems": "J103924B-C00055B-R00007",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2804,6 +2822,7 @@
         "infoEfects": []
     },
     "J103948": {
+      "solarSystemID": 31000426,
         "Wh-Systems": "J103948B-C00027B-R00004",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2814,6 +2833,7 @@
         "infoEfects": []
     },
     "J103955": {
+      "solarSystemID": 31000940,
         "Wh-Systems": "J103955C-C00085C-R00010",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -2832,6 +2852,7 @@
         ]
     },
     "J103959": {
+      "solarSystemID": 31001939,
         "Wh-Systems": "J103959E-C00239E-R00024",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2842,6 +2863,7 @@
         "infoEfects": []
     },
     "J104001": {
+       "solarSystemID": 31001366,
         "Wh-Systems": "J104001C-C00151C-R00015",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -2852,6 +2874,7 @@
         "infoEfects": []
     },
     "J104008": {
+       "solarSystemID": 31000387,
         "Wh-Systems": "J104008B-C00024B-R00004",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2862,6 +2885,7 @@
         "infoEfects": []
     },
     "J104029": {
+       "solarSystemID": 31000759,
         "Wh-Systems": "J104029B-C00060B-R00008",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2872,6 +2896,7 @@
         "infoEfects": []
     },
     "J104037": {
+       "solarSystemID": 31002447,
         "Wh-Systems": "J104037F-C00307F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -2882,6 +2907,7 @@
         "infoEfects": []
     },
     "J104103": {
+       "solarSystemID": 31000212,
         "Wh-Systems": "J104103A-C00007A-R00002",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -2892,6 +2918,7 @@
         "infoEfects": []
     },
     "J104115": {
+       "solarSystemID": 31000493,
         "Wh-Systems": "J104115B-C00034B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2902,6 +2929,7 @@
         "infoEfects": []
     },
     "J104136": {
+      "solarSystemID": 31002451,
         "Wh-Systems": "J104136F-C00308F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -2912,6 +2940,7 @@
         "infoEfects": []
     },
     "J104138": {
+       "solarSystemID": 31000113,
         "Wh-Systems": "J104138A-C00321A-R00001",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -2929,6 +2958,7 @@
         ]
     },
     "J104140": {
+       "solarSystemID": 31000066,
         "Wh-Systems": "J104140A-C00317A-R00001",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -2939,6 +2969,7 @@
         "infoEfects": []
     },
     "J104201": {
+       "solarSystemID": 31000343,
         "Wh-Systems": "J104201A-C00020A-R00003",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -2949,6 +2980,7 @@
         "infoEfects": []
     },
     "J104210": {
+        "solarSystemID": 31000491,
         "Wh-Systems": "J104210B-C00034B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2965,6 +2997,7 @@
         ]
     },
     "J104216": {
+        "solarSystemID": 31001949,
         "Wh-Systems": "J104216E-C00240E-R00024",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2975,6 +3008,7 @@
         "infoEfects": []
     },
     "J104218": {
+       "solarSystemID": 31002164,
         "Wh-Systems": "J104218E-C00270E-R00027",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -2985,6 +3019,7 @@
         "infoEfects": []
     },
     "J104253": {
+       "solarSystemID": 31000362,
         "Wh-Systems": "J104253B-C00021B-R00004",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -2995,6 +3030,7 @@
         "infoEfects": []
     },
     "J104311": {
+      "solarSystemID": 31001429,
         "Wh-Systems": "J104311D-C00161D-R00016",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3012,6 +3048,7 @@
         ]
     },
     "J104321": {
+      "solarSystemID": 31000749,
         "Wh-Systems": "J104321B-C00059B-R00007",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3022,6 +3059,7 @@
         "infoEfects": []
     },
     "J104328": {
+      "solarSystemID": 31000503,
         "Wh-Systems": "J104328B-C00035B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3032,6 +3070,7 @@
         "infoEfects": []
     },
     "J104330": {
+       "solarSystemID": 31001332,
         "Wh-Systems": "J104330C-C00146C-R00015",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3042,6 +3081,7 @@
         "infoEfects": []
     },
     "J104335": {
+      "solarSystemID": 31000231,
         "Wh-Systems": "J104335A-C00009A-R00002",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3057,6 +3097,7 @@
         ]
     },
     "J104351": {
+       "solarSystemID": 31001018,
         "Wh-Systems": "J104351C-C00097C-R00011",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3067,6 +3108,7 @@
         "infoEfects": []
     },
     "J104404": {
+       "solarSystemID": 31001643,
         "Wh-Systems": "J104404D-C00193D-R00020",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3077,6 +3119,7 @@
         "infoEfects": []
     },
     "J104416": {
+      "solarSystemID": 31001261,
         "Wh-Systems": "J104416C-C00135C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3093,6 +3136,7 @@
         ]
     },
     "J104421": {
+       "solarSystemID": 31001331,
         "Wh-Systems": "J104421C-C00146C-R00015",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3111,6 +3155,7 @@
         ]
     },
     "J104439": {
+       "solarSystemID": 31000201,
         "Wh-Systems": "J104439A-C00006A-R00002",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3126,6 +3171,7 @@
         ]
     },
     "J104448": {
+       "solarSystemID": 31001936,
         "Wh-Systems": "J104448E-C00239E-R00024",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3143,6 +3189,7 @@
         ]
     },
     "J104459": {
+       "solarSystemID": 31001006,
         "Wh-Systems": "J104459C-C00095C-R00011",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3159,6 +3206,7 @@
         ]
     },
     "J104502": {
+       "solarSystemID": 31001556,
         "Wh-Systems": "J104502D-C00180D-R00019",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3169,6 +3217,7 @@
         "infoEfects": []
     },
     "J104515": {
+        "solarSystemID": 31000729,
         "Wh-Systems": "J104515B-C00057B-R00007",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3184,6 +3233,7 @@
         ]
     },
     "J104517": {
+       "solarSystemID": 31000597,
         "Wh-Systems": "J104517B-C00044B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3194,6 +3244,7 @@
         "infoEfects": []
     },
     "J104537": {
+       "solarSystemID": 31002152,
         "Wh-Systems": "J104537E-C00268E-R00027",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3210,6 +3261,7 @@
         ]
     },
     "J104603": {
+      "solarSystemID": 31001492,
         "Wh-Systems": "J104603D-C00170D-R00018",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3226,6 +3278,7 @@
         ]
     },
     "J104606": {
+       "solarSystemID": 31000691,
         "Wh-Systems": "J104606B-C00053B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3242,6 +3295,7 @@
         ]
     },
     "J104617": {
+    "solarSystemID": 31002501,
         "Wh-Systems": "J104617E-C00258E-R00026",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3260,6 +3314,7 @@
         ]
     },
     "J104624": {
+       "solarSystemID": 31001645,
         "Wh-Systems": "J104624D-C00194D-R00020",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3270,6 +3325,7 @@
         "infoEfects": []
     },
     "J104626": {
+       "solarSystemID": 31001198,
         "Wh-Systems": "J104626C-C00125C-R00013",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3280,6 +3336,7 @@
         "infoEfects": []
     },
     "J104628": {
+      "solarSystemID": 31000163,
         "Wh-Systems": "J104628A-C00003A-R00002",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3290,6 +3347,7 @@
         "infoEfects": []
     },
     "J104632": {
+       "solarSystemID": 31002421,
         "Wh-Systems": "J104632F-C00304F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -3300,6 +3358,7 @@
         "infoEfects": []
     },
     "J104643": {
+       "solarSystemID": 31001135,
         "Wh-Systems": "J104643C-C00115C-R00012",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3315,6 +3374,7 @@
         ]
     },
     "J104649": {
+        "solarSystemID": 31001453,
         "Wh-Systems": "J104649D-C00164D-R00017",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3332,6 +3392,7 @@
         ]
     },
     "J104654": {
+      "solarSystemID": 31000897,
         "Wh-Systems": "J104654C-C00078C-R00009",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3342,6 +3403,7 @@
         "infoEfects": []
     },
     "J104704": {
+       "solarSystemID": 31002291,
         "Wh-Systems": "J104704E-C00287E-R00029",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3352,6 +3414,7 @@
         "infoEfects": []
     },
     "J104714": {
+       "solarSystemID": 31001599,
         "Wh-Systems": "J104714D-C00186D-R00019",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3368,6 +3431,7 @@
         ]
     },
     "J104718": {
+      "solarSystemID": 31000630,
         "Wh-Systems": "J104718B-C00047B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3383,6 +3447,7 @@
         ]
     },
     "J104723": {
+        "solarSystemID": 31001724,
         "Wh-Systems": "J104723D-C00206D-R00021",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3399,6 +3464,7 @@
         ]
     },
     "J104729": {
+       "solarSystemID": 31001769,
         "Wh-Systems": "J104729D-C00213D-R00022",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3415,6 +3481,7 @@
         ]
     },
     "J104754": {
+       "solarSystemID": 31001379,
         "Wh-Systems": "J104754D-C00153D-R00016",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3425,6 +3492,7 @@
         "infoEfects": []
     },
     "J104802": {
+       "solarSystemID": 31000676,
         "Wh-Systems": "J104802B-C00052B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3435,6 +3503,7 @@
         "infoEfects": []
     },
     "J104809": {
+       "solarSystemID": 31002352,
         "Wh-Systems": "J104809E-C00294E-R00029",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3451,6 +3520,7 @@
         ]
     },
     "J104815": {
+       "solarSystemID": 31001312,
         "Wh-Systems": "J104815C-C00143C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3461,6 +3531,7 @@
         "infoEfects": []
     },
     "J104820": {
+       "solarSystemID": 31000544,
         "Wh-Systems": "J104820B-C00039B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3471,6 +3542,7 @@
         "infoEfects": []
     },
     "J104835": {
+      "solarSystemID": 31001264,
         "Wh-Systems": "J104835C-C00135C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3481,6 +3553,7 @@
         "infoEfects": []
     },
     "J104837": {
+       "solarSystemID": 31001116,
         "Wh-Systems": "J104837C-C00112C-R00012",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3491,6 +3564,7 @@
         "infoEfects": []
     },
     "J104841": {
+       "solarSystemID": 31001262,
         "Wh-Systems": "J104841C-C00135C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3501,6 +3575,7 @@
         "infoEfects": []
     },
     "J104846": {
+      "solarSystemID": 31002116,
         "Wh-Systems": "J104846E-C00263E-R00026",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3517,6 +3592,7 @@
         ]
     },
     "J104850": {
+        "solarSystemID": 31000572,
         "Wh-Systems": "J104850B-C00042B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3527,6 +3603,7 @@
         "infoEfects": []
     },
     "J104857": {
+        "solarSystemID": 31002444,
         "Wh-Systems": "J104857F-C00307F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -3544,6 +3621,7 @@
         ]
     },
     "J104859": {
+       "solarSystemID": 31002367,
         "Wh-Systems": "J104859F-C00297F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -3560,6 +3638,7 @@
         ]
     },
     "J104903": {
+        "solarSystemID": 31001212,
         "Wh-Systems": "J104903C-C00127C-R00013",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3570,6 +3649,7 @@
         "infoEfects": []
     },
     "J104905": {
+       "solarSystemID": 31001046,
         "Wh-Systems": "J104905C-C00102C-R00011",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3580,6 +3660,7 @@
         "infoEfects": []
     },
     "J104921": {
+       "solarSystemID": 31002394,
         "Wh-Systems": "J104921F-C00300F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -3590,6 +3671,7 @@
         "infoEfects": []
     },
     "J104948": {
+       "solarSystemID": 31001844,
         "Wh-Systems": "J104948D-C00225D-R00022",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3608,6 +3690,7 @@
         ]
     },
     "J105000": {
+         "solarSystemID": 31000547,
         "Wh-Systems": "J105000B-C00039B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3625,6 +3708,7 @@
         ]
     },
     "J105002": {
+       "solarSystemID": 31000888,
         "Wh-Systems": "J105002C-C00077C-R00009",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3635,6 +3719,7 @@
         "infoEfects": []
     },
     "J105007": {
+       "solarSystemID": 31000891,
         "Wh-Systems": "J105007C-C00077C-R00009",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3652,6 +3737,7 @@
         ]
     },
     "J105013": {
+       "solarSystemID": 31000316,
         "Wh-Systems": "J105013A-C00017A-R00003",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3670,6 +3756,7 @@
         ]
     },
     "J105017": {
+       "solarSystemID": 31001061,
         "Wh-Systems": "J105017C-C00104C-R00011",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3686,6 +3773,7 @@
         ]
     },
     "J105023": {
+        "solarSystemID": 31002437,
         "Wh-Systems": "J105023F-C00306F-R00030",
         "SST": "-1.0 (0.0)",
         "Class": "C6",
@@ -3701,6 +3789,7 @@
         ]
     },
     "J105033": {
+       "solarSystemID": 31001234,
         "Wh-Systems": "J105033C-C00131C-R00014",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3711,6 +3800,7 @@
         "infoEfects": []
     },
     "J105039": {
+        "solarSystemID": 31000070,
         "Wh-Systems": "J105039A-C00317A-R00001",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3727,6 +3817,7 @@
         ]
     },
     "J105059": {
+       "solarSystemID": 31002214,
         "Wh-Systems": "J105059E-C00276E-R00028",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3744,6 +3835,7 @@
         ]
     },
     "J105102": {
+       "solarSystemID": 31000934,
         "Wh-Systems": "J105102C-C00084C-R00009",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3759,6 +3851,7 @@
         ]
     },
     "J105123": {
+       "solarSystemID": 31000779,
         "Wh-Systems": "J105123B-C00062B-R00008",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3769,6 +3862,7 @@
         "infoEfects": []
     },
     "J105135": {
+       "solarSystemID": 31002168,
         "Wh-Systems": "J105135E-C00270E-R00027",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3785,6 +3879,7 @@
         ]
     },
     "J105201": {
+        "solarSystemID": 31001355,
         "Wh-Systems": "J105201C-C00149C-R00015",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3803,6 +3898,7 @@
         ]
     },
     "J105203": {
+       "solarSystemID": 31000502,
         "Wh-Systems": "J105203B-C00035B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3813,6 +3909,7 @@
         "infoEfects": []
     },
     "J105232": {
+       "solarSystemID": 31000280,
         "Wh-Systems": "J105232A-C00013A-R00002",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
@@ -3823,6 +3920,7 @@
         "infoEfects": []
     },
     "J105244": {
+        "solarSystemID": 31000800,
         "Wh-Systems": "J105244B-C00064B-R00008",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3840,6 +3938,7 @@
         ]
     },
     "J105246": {
+        "solarSystemID": 31002257,
         "Wh-Systems": "J105246E-C00282E-R00028",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3850,6 +3949,7 @@
         "infoEfects": []
     },
     "J105311": {
+       "solarSystemID": 31000807,
         "Wh-Systems": "J105311B-C00065B-R00008",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3860,6 +3960,7 @@
         "infoEfects": []
     },
     "J105319": {
+       "solarSystemID": 31001865,
         "Wh-Systems": "J105319D-C00229D-R00023",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3870,6 +3971,7 @@
         "infoEfects": []
     },
     "J105321": {
+       "solarSystemID": 31000469,
         "Wh-Systems": "J105321B-C00032B-R00005",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3880,6 +3982,7 @@
         "infoEfects": []
     },
     "J105342": {
+       "solarSystemID": 31000732,
         "Wh-Systems": "J105342B-C00057B-R00007",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3890,6 +3993,7 @@
         "infoEfects": []
     },
     "J105346": {
+       "solarSystemID": 31001450,
         "Wh-Systems": "J105346D-C00164D-R00017",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3905,6 +4009,7 @@
         ]
     },
     "J105348": {
+       "solarSystemID": 31001863,
         "Wh-Systems": "J105348D-C00228D-R00023",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3921,6 +4026,7 @@
         ]
     },
     "J105352": {
+       "solarSystemID": 31000563,
         "Wh-Systems": "J105352B-C00041B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3931,6 +4037,7 @@
         "infoEfects": []
     },
     "J105409": {
+        "solarSystemID": 31001130,
         "Wh-Systems": "J105409C-C00114C-R00012",
         "SST": "-1.0 (0.0)",
         "Class": "C3",
@@ -3941,6 +4048,7 @@
         "infoEfects": []
     },
     "J105411": {
+        "solarSystemID": 31001495,
         "Wh-Systems": "J105411D-C00171D-R00018",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3951,6 +4059,7 @@
         "infoEfects": []
     },
     "J105415": {
+       "solarSystemID": 31001434,
         "Wh-Systems": "J105415D-C00161D-R00016",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3969,6 +4078,7 @@
         ]
     },
     "J105433": {
+       "solarSystemID": 31001861,
         "Wh-Systems": "J105433D-C00228D-R00023",
         "SST": "-1.0 (0.0)",
         "Class": "C4",
@@ -3979,6 +4089,7 @@
         "infoEfects": []
     },
     "J105439": {
+        "solarSystemID": 31000701,
         "Wh-Systems": "J105439B-C00054B-R00006",
         "SST": "-1.0 (0.0)",
         "Class": "C2",
@@ -3989,6 +4100,7 @@
         "infoEfects": []
     },
     "J105441": {
+        "solarSystemID": 31001928,
         "Wh-Systems": "J105441E-C00238E-R00024",
         "SST": "-1.0 (0.0)",
         "Class": "C5",
@@ -3999,6 +4111,7 @@
         "infoEfects": []
     },
     "J105443": {
+       "solarSystemID": 31000007,
         "Wh-Systems": "J105443A-C00311A-R00001",
         "SST": "-1.0 (0.0)",
         "Class": "C1",
